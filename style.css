@@ -57,3 +57,9 @@ img{
     font-style: italic;
     text-align: justify;
 }
+
+@media screen and (max-width: 768px){
+    #tribute-info, .phrase{
+        width: 85%;
+    }
+}
