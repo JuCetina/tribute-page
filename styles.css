@@ -1,0 +1,59 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    color: #333;
+    text-align: center;
+}
+
+main{
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+section p span{
+    font-size: 1.2em;
+}
+
+h1, h2{
+    font-family: 'Roboto', sans-serif;
+}
+
+ul{
+    text-align: left;
+}
+
+ul li{
+    margin: 20px 0;
+}
+
+span{
+    font-weight: 600;
+}
+
+a{
+    text-decoration: none;
+}
+
+#img-div{
+    background-color: white;
+    padding: 10px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#tribute-info{
+    margin: 50px auto;
+    width: 50%;
+}
+
+.phrase{
+    margin: 50px auto;
+    width: 45%;
+    font-style: italic;
+    text-align: justify;
+}
